@@ -79,7 +79,7 @@ If you are looking for community support, you can get it from
 available.
 
 Finally, keep in mind that wxWidgets is an open source project collaboratively
-developed by its users and your contributions to it are always welcome. Please
+developed by its users and your contributions are always welcome. Please
 check [our guidelines](.github/CONTRIBUTING.md) if you'd like to do it.
 
 
